@@ -1,0 +1,21 @@
+{
+  "name": "Web Starter Kit",
+  "short_name": "WSK",
+  "icons": [
+    {
+      "src": "images/logo/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#36d446",
+  "background_color": "#36d446",
+  "description": "It is a web-starter-kit to manage your project easily."
+}
